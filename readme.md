@@ -1,6 +1,8 @@
 # XFLP UI
 Web renderer for 3D load planning results.
 
+![Alt text](/static/Readme_image.png)
+
 _It is in draft modus._
 
 ## Bootstrap by
