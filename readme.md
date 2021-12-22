@@ -1,4 +1,9 @@
-# Three.js Starter
+# XFLP UI
+Web renderer for 3D load planning results.
+
+_It is in draft modus._
+
+## Bootstrap by
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
 ## Setup
